@@ -27,6 +27,6 @@ setup(
         [ckan.plugins]
 	# Add plugins here, eg
 	# myplugin=ckanext.cf:PluginClass
-	cf=ckanext.cf.plugin:ExampleIDatasetFormPlugin
+	cf=ckanext.cf.plugin:USMetadataPlugin
 	""",
 )
